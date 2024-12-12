@@ -1,0 +1,7 @@
+title: Geolocating Digital Refugees: Twitter User Behavior During Disasters
+description: Intro to Data Science Project
+show_downloads: true
+google_analytics: 
+theme: jekyll-theme-cayman  #Or any other theme you're using
+plugins:
+  - jekyll-include
